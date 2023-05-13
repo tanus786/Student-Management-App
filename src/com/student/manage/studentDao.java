@@ -44,7 +44,6 @@ public class studentDao {
 			PreparedStatement pstmt = con.prepareStatement(q);
 			//set the value of parameter
 			pstmt.setInt(1, userID);
-			//execute query
 			pstmt.executeUpdate();
 			f = true;
 			
