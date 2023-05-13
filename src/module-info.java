@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author tanus
- *
- */
-module StudentManagementApp {
-}
